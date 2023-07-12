@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TayPortfolio/static/css/main.2c6492f2.css",
+    "main.js": "/TayPortfolio/static/js/main.af140a9c.js",
+    "static/media/Roboto.ttf": "/TayPortfolio/static/media/Roboto.b4a0db2792d10e645e2b.ttf",
+    "static/media/aloe.ttf": "/TayPortfolio/static/media/aloe.e1afeee5869bb951a95d.ttf",
+    "static/media/TheNightWatch.ttf": "/TayPortfolio/static/media/TheNightWatch.c68f6a6e30935c06a48e.ttf",
+    "index.html": "/TayPortfolio/index.html",
+    "main.2c6492f2.css.map": "/TayPortfolio/static/css/main.2c6492f2.css.map",
+    "main.af140a9c.js.map": "/TayPortfolio/static/js/main.af140a9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c6492f2.css",
+    "static/js/main.af140a9c.js"
+  ]
+}
